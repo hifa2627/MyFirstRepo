@@ -1,7 +1,7 @@
 # My First GitHub ProjectThis project was created as part of the Git & GitHub Lab.
 ## About
-- Created by: [Hifa]
-- Course: [Application Interface]
+- Created by: Hifa
+- Course: Version Control Systems
 - Date: [2026-04-10]
 ## Purpose
 To learn how to:
