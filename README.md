@@ -1,4 +1,4 @@
-# My First GitHub Project This project was created as part of the Git & GitHub Lab.
+# My First GitHub ProjectThis project was created as part of the Git & GitHub Lab.
 ## About
 - Created by: [Hifa]
 - Course: [Application Interface]
